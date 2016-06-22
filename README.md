@@ -2,6 +2,10 @@
 
 ##What is it
 
+Inspired by [JPHP vs PHP 7 – performance test](http://blog.j-php.net/archives/34#more-34)
+
+The sources of the benchmark you can find [here](https://github.com/jphp-compiler/jphp/tree/master/bench/src)
+
 ##Test on my laptop
 
 #### Environment
